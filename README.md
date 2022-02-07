@@ -138,6 +138,12 @@ Compilation et éxécution des tests
 
 Concernant les tests, on a utilisé la verson Junit 5 pour les faire mais n'ayant pas trouvé de jar pour les compiler depuis le terminal, on les a éxécuté sur un editeur intégré (eclipse).
 
+Mais on peut utiliser pour les éxécuter en éxécutant la commande suivante depuis la racine du projet :
+
+```sh
+$ mvn test
+```
+
 Compilation du code source
 --------------------------
 

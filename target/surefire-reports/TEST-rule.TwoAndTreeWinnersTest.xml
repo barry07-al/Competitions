@@ -6,7 +6,7 @@
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/home/barry/Cours_S5/l3-projet-competitions-sportives/target/test-classes:/home/barry/Cours_S5/l3-projet-competitions-sportives/target/classes:/home/barry/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.1/junit-jupiter-api-5.5.1.jar:/home/barry/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/barry/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/barry/.m2/repository/org/junit/platform/junit-platform-commons/1.5.1/junit-platform-commons-1.5.1.jar:"/>
+    <property name="java.class.path" value="/home/barry/projet/Competitions/target/test-classes:/home/barry/projet/Competitions/target/classes:/home/barry/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.1/junit-jupiter-api-5.5.1.jar:/home/barry/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/barry/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/barry/.m2/repository/org/junit/platform/junit-platform-commons/1.5.1/junit-platform-commons-1.5.1.jar:"/>
     <property name="java.vm.vendor" value="Ubuntu"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://ubuntu.com/"/>
@@ -16,9 +16,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/barry/Cours_S5/l3-projet-competitions-sportives/target/surefire/surefirebooter6614971825876940828.jar /home/barry/Cours_S5/l3-projet-competitions-sportives/target/surefire 2022-01-22T19-06-49_340-jvmRun1 surefire6189601946665677089tmp surefire_017288821823099612195tmp"/>
+    <property name="sun.java.command" value="/home/barry/projet/Competitions/target/surefire/surefirebooter4411790901406501177.jar /home/barry/projet/Competitions/target/surefire 2022-02-07T22-04-32_193-jvmRun1 surefire5705584771871643688tmp surefire_010261465009548394603tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/home/barry/Cours_S5/l3-projet-competitions-sportives/target/test-classes:/home/barry/Cours_S5/l3-projet-competitions-sportives/target/classes:/home/barry/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.1/junit-jupiter-api-5.5.1.jar:/home/barry/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/barry/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/barry/.m2/repository/org/junit/platform/junit-platform-commons/1.5.1/junit-platform-commons-1.5.1.jar:"/>
+    <property name="surefire.test.class.path" value="/home/barry/projet/Competitions/target/test-classes:/home/barry/projet/Competitions/target/classes:/home/barry/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.1/junit-jupiter-api-5.5.1.jar:/home/barry/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/barry/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/barry/.m2/repository/org/junit/platform/junit-platform-commons/1.5.1/junit-platform-commons-1.5.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/barry"/>
     <property name="user.language" value="en"/>
@@ -26,18 +26,18 @@
     <property name="java.version.date" value="2021-10-19"/>
     <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/home/barry/Cours_S5/l3-projet-competitions-sportives"/>
+    <property name="basedir" value="/home/barry/projet/Competitions"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/barry/Cours_S5/l3-projet-competitions-sportives/target/surefire/surefirebooter6614971825876940828.jar"/>
+    <property name="surefire.real.class.path" value="/home/barry/projet/Competitions/target/surefire/surefirebooter4411790901406501177.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.13+8-Ubuntu-0ubuntu1.20.04"/>
     <property name="user.name" value="barry"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="5.13.0-27-generic"/>
+    <property name="os.version" value="5.13.0-28-generic"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
@@ -45,7 +45,7 @@
     <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/>
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="java.version" value="11.0.13"/>
-    <property name="user.dir" value="/home/barry/Cours_S5/l3-projet-competitions-sportives"/>
+    <property name="user.dir" value="/home/barry/projet/Competitions"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
@@ -57,7 +57,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testOrganizeWhoParticipateTournamentNOk" classname="rule.TwoAndTreeWinnersTest" time="0.002">
+  <testcase name="testOrganizeWhoParticipateTournamentNOk" classname="rule.TwoAndTreeWinnersTest" time="0.001">
     <system-out><![CDATA[TwoAndTreeFirstWinner
 ]]></system-out>
   </testcase>
