@@ -1,0 +1,15 @@
+match/MatchTest.class
+Competition/MasterTest.class
+Competition/CompetitionTest.class
+Competition/TournamentTest.class
+competitor/MockCompetitor.class
+competitor/CompetitorTest.class
+rule/TwoFirstWinnerTest.class
+match/SingleMatchTest.class
+match/MockMatchs.class
+rule/RuleTest.class
+Competition/MockCompetition.class
+rule/TwoAndTreeWinnersTest.class
+speakers/MockSpeakersObservable.class
+Competition/LeagueTest.class
+Competition/CompetitionTestWithMock.class

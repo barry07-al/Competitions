@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Competition"},{"l":"competitor"},{"l":"exception"},{"l":"Main"},{"l":"match"},{"l":"rule"},{"l":"speakers"},{"l":"util"}];updateSearchResults();
